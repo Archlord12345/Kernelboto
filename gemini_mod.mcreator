@@ -1,0 +1,25 @@
+{
+  "modElementTypes": [],
+  "modElements": [],
+  "lock": false,
+  "mcreatorVersion": "2023.4",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.4.10",
+  "generatorVersion": "1.16.5",
+  "modId": "gemini_mod",
+  "modName": "Gemini AI Mod",
+  "modVersion": "1.0.0",
+  "author": "Jules",
+  "websiteURL": "",
+  "license": "All Rights Reserved",
+  "disableForgeVersionCheck": false,
+  "serverSideOnly": false,
+  "requiredMods": [],
+  "dependencies": [],
+  "dependants": [],
+  "mcreatorPath": ".",
+  "workspaceSettings": {
+    "modid": "gemini_mod",
+    "modName": "Gemini AI Mod"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "IntelligentMob",
+  "type": "mob",
+  "sortid": 1,
+  "compiles": true,
+  "locked_code": false,
+  "registry_name": "intelligent_mob",
+  "texture": "tvbot.png",
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/geminimod/entity/IntelligentMobEntity.java"
+    ]
+  }
+}
