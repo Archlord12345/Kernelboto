@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="archbot"
+version="1.0.0"
+displayName="Archbot AI Mod"
+authors="Jules"
+description='''
+A mod that adds an AI-powered mob named Archbot using the Gemini API.
+'''
+[[dependencies.archbot]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.archbot]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,)"
+    ordering="NONE"
+    side="BOTH"

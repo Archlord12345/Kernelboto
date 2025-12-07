@@ -1,0 +1,39 @@
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans
+nbproject/
+build/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+
+# Build artifacts
+build/
+.gradle/
+*.jar
+*remapped.jar
+
+# Log files
+logs/
+*.log
+
+# User-specific files
+run/
+user_jvm_args.txt
+
+# Gemini API Key
+geminikey.txt
