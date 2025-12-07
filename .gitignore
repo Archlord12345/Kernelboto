@@ -1,25 +1,39 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
+
+# Eclipse
 .classpath
 .project
+.settings/
 
-# idea
-out
+# IntelliJ IDEA
+.idea/
+*.iml
 *.ipr
 *.iws
-*.iml
-.idea
+out/
 
-# gradle
-build
-.gradle
+# NetBeans
+nbproject/
+build/
+dist/
+nbdist/
+.nb-gradle/
 
-# other
-eclipse
-run
+# Visual Studio Code
+.vscode/
 
-# Files from Forge MDK
-forge*changelog.txt
+# Build artifacts
+build/
+.gradle/
+*.jar
+*remapped.jar
+
+# Log files
+logs/
+*.log
+
+# User-specific files
+run/
+user_jvm_args.txt
+
+# Gemini API Key
+geminikey.txt
